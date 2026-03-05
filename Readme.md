@@ -261,7 +261,7 @@ VITE_BACKEND_URL=http://localhost:8000
 
 ## 👨‍💻 Author
 
-Utkarsh Tiwari & Sahil Vishwakarma  
+Utkarsh Tiwari , Sahil Vishwakarma & Harsh Gupta 
 AI/ML & Full Stack Developers
 
 ---
